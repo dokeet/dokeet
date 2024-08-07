@@ -1,8 +1,7 @@
 
 ![I'm Jorge Cabello](https://raw.githubusercontent.com/dokeet/dokeet/master/home.svg)
 
-I use [codepen](https://codepen.io/dok) and [codesanbox](https://codesandbox.io/u/dokeet) sometimes
-
+contact: jorgecblldev@gmail.com
 <!--
 **dokeet/dokeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
