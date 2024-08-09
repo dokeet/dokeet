@@ -1,7 +1,7 @@
 
 ![I'm Jorge Cabello](https://raw.githubusercontent.com/dokeet/dokeet/master/home.svg)
 
-contact: jorgecblldev@gmail.com
+contact: jorgecbll@gmail.com
 <!--
 **dokeet/dokeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
