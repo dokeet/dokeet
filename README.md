@@ -1,5 +1,4 @@
 
-![I'm Jorge Cabello](https://raw.githubusercontent.com/dokeet/dokeet/master/home.svg)
 
 contact: jorgecbll@gmail.com
 <!--
